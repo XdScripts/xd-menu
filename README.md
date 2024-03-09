@@ -1,6 +1,7 @@
 # xd-menu
 Menu System for the QBCore Framework
 
+Rename The File Name to qb-menu
 
 --[[
 EXAMPLE MENU
